@@ -22,8 +22,11 @@ Example call:
 https://api.open-meteo.com/v1/forecast?latitude=42.2808&longitude=-83.743&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max,weather_code&temperature_unit=fahrenheit&timezone=America/Detroit&forecast_days=1
 
 ## 3. Trisha Paytas's latest TikTok (1–2 sentences)
-Find Trisha Paytas's most recent TikTok post via web search and describe it
-in one or two chatty sentences. If the latest post genuinely can't be
+Trisha Paytas's TikTok is @trishlikefish88. First try fetching her profile
+directly — https://www.tiktok.com/@trishlikefish88 — and pull the newest
+video's caption/description from the page. If that's blocked, fall back to
+web searches like "Trisha Paytas TikTok" restricted to the last few days.
+Describe her most recent post in one or two chatty sentences. If the latest post genuinely can't be
 determined, fall back to something graceful like "Trisha update pending —
 the algorithm is gatekeeping today" rather than guessing or making one up.
 
